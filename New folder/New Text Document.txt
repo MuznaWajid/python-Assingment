@@ -1,0 +1,13 @@
+echo "# python-Assingment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MuznaWajid/python-Assingment.git
+git push -u origin master
+
+
+
+
+
+
+https://docs.google.com/forms/d/e/1FAIpQLScyJvyHlpBZ41EyL3uTqc8_m7UdrP6dFrRSSkzrS_MTdIwhLg/viewform
